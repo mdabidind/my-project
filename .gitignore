@@ -1,4 +1,5 @@
 echo ".env
+/includes/config.php
 *.log
-/cache/
-/tmp/" >> .gitignore
+/tmp/
+/cache/" > .gitignore
